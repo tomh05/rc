@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/tomh/Projects/treadmill'
+let g:netrw_dirhist_2='/home/tomh/Projects/treadmill/gsv-fun/googleGrabber'
+let g:netrw_dirhist_3='/home/tomh/Projects/treadmill/imgalign/vplibs-git/VPimageproc/src'
+let g:netrw_dirhist_4='/etc/apt/sources.list.d'
+let g:netrw_dirhist_5='/home/tomh/Projects/treadmill/preprocessor/python'
+let g:netrw_dirhist_6='/home/tomh/projects/ipstudio/repo/ipp-apps/sdimulticapture'
